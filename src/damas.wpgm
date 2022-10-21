@@ -1,0 +1,11 @@
+import wollok.game.*
+import damas.*
+
+program ajedrez {
+	juego.configurar()
+	juego.iniciarTablero()
+	
+	
+	game.start()
+
+}
